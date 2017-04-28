@@ -1,5 +1,16 @@
+*#*#
+*.#*
 *.class
-*.log
+*.iml
+*.ipr
+*.iws
+*~
+.DS_Store
+.classpath
+.idea/
+.idea_modules/
+.project
+.settings
 
 # sbt specific
 .cache
@@ -12,6 +23,3 @@ src_managed/
 project/boot/
 project/plugins/project/
 
-# Scala-IDE specific
-.scala_dependencies
-.worksheet
