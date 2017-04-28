@@ -1,4 +1,4 @@
-package jjcipher.examples.chainActor
+package examples.chainActor
 
 import akka.actor.{Actor, ActorRef, ActorSystem, Props}
 
